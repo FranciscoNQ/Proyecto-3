@@ -20,11 +20,11 @@ df_principal["Salario minimo (USD)"] = 0.00
 df_cambio.set_index("Simbolo", inplace=True)
 
 
-#Creamos un bucle para calcular los salarios y precios en usd
+#Creamos variables para iniciar bucle que convertira los salarios y precios en usd
 cantidad_filas = df_principal["Pais"].count() - 1
 fila_inicial = 0 
 
-#Iniciamos el bucle y ponemos como condicion para terminar la cantidad de filas
+#Iniciamos el bucle y ponemos como condicion cantidad_filas para terminar. 
 while fila_inicial <= cantidad_filas:
     moneda = df_principal["Moneda"][fila_inicial]
     consulta = df_cambio[df_cambio.index.str.contains(moneda)]
