@@ -13,7 +13,7 @@ La visualización se realizó en Looker Studio, acompañado de un informe en for
 - Request: Realizar solicitudes y obtener informacion.
 - Time: Utilizado para agregar una pausa en cada solicitud.
 - Datatime: Registrar fecha actual en el dataset.
-- Apis: ExchangeRate API y restcountries para obtener información de las monedas y tasas de cambio de cada pais con el par USD.
+- Apis: ExchangeRate API y Restcountries para obtener información de las monedas y tasas de cambio de cada pais con el par USD.
 
 ## Visualización en Looker Studio
 
