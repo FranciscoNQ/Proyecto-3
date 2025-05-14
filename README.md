@@ -19,7 +19,7 @@ La visualización se realizó en Looker Studio, acompañado de un informe en for
 ## Visualización en Looker Studio
 
 Dashboard interactivo:
-[LookerStudio](https://lookerstudio.google.com/s/t7lXhYhp178)
+[LookerStudio]([[https://lookerstudio.google.com/s/t7lXhYhp178](https://lookerstudio.google.com/s/je5R45041ME)](https://lookerstudio.google.com/reporting/72680627-f270-4d56-a235-334caacc61d5))
 
 ## Presentacion de informe en Google Colab
 
