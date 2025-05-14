@@ -4,7 +4,7 @@ En este informe se analiza el poder adquisitivo de los países de Sudamérica (e
 
 Se utilizó Python con varias librerías y APIs, para limpiar, construir pipelines, realizar transformaciones y presentar el dataset final.
 
-La visualización se realizó en Looker Studio, acompañado de un informe en formato PDF.
+La visualización se realizó en Looker Studio, acompañado de un informe en Google colab.
 
 ## librerías y tecnologías 
 
