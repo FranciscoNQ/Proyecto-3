@@ -23,7 +23,7 @@ Dashboard interactivo:
 
 ## Presentacion de informe en Google Colab
 
-[GoogleColab]()
+[GoogleColab](https://colab.research.google.com/drive/1Zjd9Ua6E48vFH5-p_hgmECEo0ObhcABn?usp=sharing)
 
 
 
