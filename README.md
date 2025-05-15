@@ -21,7 +21,7 @@ La visualización se realizó en Looker Studio, acompañado de un informe en Goo
 Dashboard interactivo:
 [LookerStudio](https://lookerstudio.google.com/s/rccHOEn4R-0)
 
-## Presentacion de informe en Google Colab
+## Presentacion del informe en Google Colab
 
 [GoogleColab](https://colab.research.google.com/drive/1Zjd9Ua6E48vFH5-p_hgmECEo0ObhcABn?usp=sharing)
 
