@@ -27,15 +27,15 @@ La visualización se realizó en Looker Studio, acompañado de un informe en Goo
 ## Fuente de información - Big Mac
 
 La información fue extraída generalmente de páginas oficiales de McDonald's. En algunos casos, se utilizó como segunda opcion la plataforma de delivery PedidosYa.
-- [Argentina](https://www.mcdonalds.com.ar/restaurantes/mendoza/colon-369-cmz/pedidos/pedi-y-retira/hamburguesas/big-mac)
-- [Brasil](https://www.mcdonalds.com.br/restaurantes/franca/franca-shopping-center-fra-fra/pedidos/peca-e-retire/sanduiches/big-mac)
-- [Chile](https://www.mcdonalds.cl/restaurantes/santiago/mall-arauco-maipu-patio-de-comida-ma1/pedidos/pickup/hamburguesas/big-mac)
-- [Colombia](https://www.mcdonalds.com.co/restaurantes/barranquilla/carrera-43-c43/pedidos/pickup/hamburguesas/big-mac)
-- [Perú](https://www.mcdonalds.com.pe/restaurantes/chiclayo/chiclayo-chi/pedidos/pide-y-retira/hamburguesas/big-mac)
-- [Uruguay](https://www.mcdonalds.com.uy/restaurantes/montevideo/18-de-julio-y-ejido-18e/pedidos/pickup/hamburguesas/big-mac)
-- [Ecuador](https://www.mcdonalds.com.ec/restaurantes/quito/mall-quicentro-sur-mqs/pedidos/pide-y-retira/hamburguesas/big-mac)
-- [venezuela](https://www.pedidosya.com.ve/restaurantes/caracas/mcdonalds-sabana-grande-0705dc41-b240-41db-ad82-9ddf8b946ce0-menu?p=128899332&menuSection=menu)
-- [paraguay](https://www.pedidosya.com.py/restaurantes/asuncion/mcdonalds-aviadores-fe2c57e6-f137-4165-8e86-8685d93391b0-menu?p=15598566&menuSection=menu)
+- [Argentina] (https://www.mcdonalds.com.ar/restaurantes/mendoza/colon-369-cmz/pedidos/pedi-y-retira/hamburguesas/big-mac)
+- [Brasil] (https://www.mcdonalds.com.br/restaurantes/franca/franca-shopping-center-fra-fra/pedidos/peca-e-retire/sanduiches/big-mac)
+- [Chile] (https://www.mcdonalds.cl/restaurantes/santiago/mall-arauco-maipu-patio-de-comida-ma1/pedidos/pickup/hamburguesas/big-mac)
+- [Colombia] (https://www.mcdonalds.com.co/restaurantes/barranquilla/carrera-43-c43/pedidos/pickup/hamburguesas/big-mac)
+- [Perú] (https://www.mcdonalds.com.pe/restaurantes/chiclayo/chiclayo-chi/pedidos/pide-y-retira/hamburguesas/big-mac)
+- [Uruguay] (https://www.mcdonalds.com.uy/restaurantes/montevideo/18-de-julio-y-ejido-18e/pedidos/pickup/hamburguesas/big-mac)
+- [Ecuador] (https://www.mcdonalds.com.ec/restaurantes/quito/mall-quicentro-sur-mqs/pedidos/pide-y-retira/hamburguesas/big-mac)
+- [venezuela] (https://www.pedidosya.com.ve/restaurantes/caracas/mcdonalds-sabana-grande-0705dc41-b240-41db-ad82-9ddf8b946ce0-menu?p=128899332&menuSection=menu)
+- [paraguay] (https://www.pedidosya.com.py/restaurantes/asuncion/mcdonalds-aviadores-fe2c57e6-f137-4165-8e86-8685d93391b0-menu?p=15598566&menuSection=menu)
 
 ## Fuente de información - Salario mínimo
 
