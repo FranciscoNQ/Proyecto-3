@@ -26,7 +26,7 @@ La visualización se realizó en Looker Studio, acompañado de un informe en Goo
 
 ## Fuente de información
 
-# Precio Big mac:
+* Precio Big mac:
 - [Argentina](https://www.mcdonalds.com.ar/restaurantes/mendoza/colon-369-cmz/pedidos/pedi-y-retira/hamburguesas/big-mac)
 - [Brasil](https://www.mcdonalds.com.br/restaurantes/franca/franca-shopping-center-fra-fra/pedidos/peca-e-retire/sanduiches/big-mac)
 - [Chile](https://www.mcdonalds.cl/restaurantes/santiago/mall-arauco-maipu-patio-de-comida-ma1/pedidos/pickup/hamburguesas/big-mac)
