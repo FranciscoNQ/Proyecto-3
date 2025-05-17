@@ -18,7 +18,7 @@ La visualización se realizó en Looker Studio, acompañado de un informe en Goo
 
 ## Visualización en Looker Studio
 
-[LookerStudio](https://lookerstudio.google.com/s/rccHOEn4R-0) #Para no tener problemas en la Visualización, debe tener la sesion iniciada de google.
+[LookerStudio](https://lookerstudio.google.com/s/rccHOEn4R-0) #Para no tener problemas en la visualización, debe tener la sesion iniciada de google.
 
 ## Presentacion del informe en Google Colab
 
